@@ -1,0 +1,10 @@
+﻿  Radar.cpp
+C:\Users\29030\source\repos\sexy-driver\um\src\Driver.h(21,24): warning C4312: “reinterpret_cast”: 从“const DWORD”转换到更大的“HANDLE”
+  (编译源文件“src/Radar.cpp”)
+  
+C:\Users\29030\source\repos\sexy-driver\um\src\Radar.cpp(26,11): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+C:\Users\29030\source\repos\sexy-driver\um\src\Radar.cpp(26,11): warning C4244:         with
+C:\Users\29030\source\repos\sexy-driver\um\src\Radar.cpp(26,11): warning C4244:         [
+C:\Users\29030\source\repos\sexy-driver\um\src\Radar.cpp(26,11): warning C4244:             T=DWORD64
+C:\Users\29030\source\repos\sexy-driver\um\src\Radar.cpp(26,11): warning C4244:         ]
+  um.vcxproj -> C:\Users\29030\source\repos\sexy-driver\build\um.exe
